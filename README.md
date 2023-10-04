@@ -39,6 +39,10 @@ To run the game locally or contribute to the project, follow these steps:
 
 3. Open the `index.html` file in your web browser to play the game.
 
+   OR
+
+Use the active live link of GitHub Pages 
+
 ## How to Play
 
 1. Click the "Roll Dice" button to roll the dice.
