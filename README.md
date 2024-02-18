@@ -7,6 +7,7 @@ Welcome to the PIG Game repository! This is a two-player game built using HTML, 
 - [Game Rules](#game-rules)
 - [Demo](#demo)
 - [Getting Started](#getting-started)
+- [Game Logic](#game-logic)
 - [How to Play](#how-to-play)
 - [Contributing](#contributing)
 
@@ -42,6 +43,10 @@ To run the game locally or contribute to the project, follow these steps:
    OR
 
 Use the active live link of GitHub Pages 
+
+## Game Logic
+![image](https://github.com/shubham4672/PIG-Game/assets/98074227/e80065bc-5180-451b-b1c6-641e3e4fdd1d)
+
 
 ## How to Play
 
