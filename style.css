@@ -59,7 +59,7 @@ main {
 .score {
   font-size: 8rem;
   font-weight: 300;
-  color: #3f11f4;
+  color: #653eff;
   margin-bottom: auto;
 }
 
@@ -78,7 +78,7 @@ main {
 }
 
 .current {
-  background-color: #3f11f4;
+  background-color: #7756fe;
   opacity: 0.8;
   border-radius: 9px;
   color: #fff;
