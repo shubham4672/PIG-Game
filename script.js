@@ -64,7 +64,7 @@ btnRoll.addEventListner("click", function () {
     }
   }
 });
-btnHold.addEventListener("click", function () {
+btnHold.addEventListner("click", function () {
   if (playing) {
     // 1. Add current score to active player's score
     scores[activePlayer] += currentScore;
