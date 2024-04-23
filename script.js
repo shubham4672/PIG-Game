@@ -44,7 +44,7 @@ const switchPlayer = function () {
 };
 
 // Rolling dice functionaliy
-btnRoll.addEventListner("click", function () {
+btnRoll.addEventListener("click", function () {
   if (playing) {
     // 1. Generating a random dice roll
     const dice = Math.trunc(Math.random() * 6) + 1;
@@ -64,7 +64,7 @@ btnRoll.addEventListner("click", function () {
     }
   }
 });
-btnHold.addEventListner("click", function () {
+btnHold.addEventListener("click", function () {
   if (playing) {
     // 1. Add current score to active player's score
     scores[activePlayer] += currentScore;
