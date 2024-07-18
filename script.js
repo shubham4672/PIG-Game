@@ -1,5 +1,13 @@
 "use strict";
 
+// Enter the player names
+const p1 = prompt("Who's is Player 1: ");
+const p2 = prompt("Who's is Player 2: ");
+const p1El = document.getElementById('name--0');
+const p2El = document.getElementById('name--1');
+p1El.textContent = p1;
+p2El.textContent = p2;
+
 // Selecting elements
 const player0El = document.querySelector(".player--0");
 const player1El = document.querySelector(".player--1");
